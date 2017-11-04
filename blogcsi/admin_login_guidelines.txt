@@ -1,0 +1,7 @@
+For admin to login in:
+
+link:localhost/blogtemplate/blog/admin
+username:demo
+password:demo
+
+
